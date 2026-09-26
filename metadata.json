@@ -1,0 +1,6 @@
+{
+  "name": "CryaMania",
+  "description": "Social multiplayer metaverse where you join and host customizable 3D voice chat rooms powered by CRIN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
